@@ -2,7 +2,7 @@
 import cv2
 
 MIN_SIZE = 2
-image = cv2.imread("input.jpg")
+image = cv2.imread("input.png")
 h, w, _ = image.shape
 
 # tedad matraha
